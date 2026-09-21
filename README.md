@@ -1,3 +1,3 @@
 # project-demo
-This is my first git repository
-try by varuas
+This is my first git repository.
+Try by varuas.
